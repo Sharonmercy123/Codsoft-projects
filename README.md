@@ -1,3 +1,3 @@
 # Codsoft-projects
 titanic survival prediction ,
-movie rating prediciton 
+movie rating prediciton , Iris flower classification project 
